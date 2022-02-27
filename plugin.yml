@@ -1,0 +1,7 @@
+name: SalC1Dupe
+version: 1.0-SNAPSHOT
+main: org.l2x9.saldupe.Main
+prefix: SalC1Dupe
+authors: [juancitocubo]
+description: Plugin to enable the salc1 treemc dupe
+website: www.7r7b.org
