@@ -1,4 +1,4 @@
-# SalC1Dupe
+# SalC1Dupe-Plugin
 
 Native Minecraft Version: Legacy (< 1.13)
 Tested Minecraft Versions: 1.12 - 1.12.1 - 1.12.2
