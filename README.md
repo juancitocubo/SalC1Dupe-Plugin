@@ -13,4 +13,4 @@ my discord: juancitocubo#4789
 
 this plugin is for anarchy servers example 2b2t.org or 7r7b.org
 
-video dupe: https://www.youtube.com/embed/ZaRoMWUY-2g
+video dupe: https://youtu.be/ZaRoMWUY-2g - https://www.youtube.com/watch?v=ZaRoMWUY-2g
