@@ -13,5 +13,4 @@ my discord: juancitocubo#4789
 
 this plugin is for anarchy servers example 2b2t.org or 7r7b.org
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZaRoMWUY-2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+video dupe: https://www.youtube.com/embed/ZaRoMWUY-2g
