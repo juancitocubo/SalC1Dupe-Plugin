@@ -9,7 +9,7 @@ Plugin to enable salc1 treemc dupe
 
 Permission to use the dupe: dupe.use
 
-my discord: juancitocubo#4789
+my discord: juancitocubo#0001
 
 this plugin is for anarchy servers example 2b2t.org or 7r7b.org
 
